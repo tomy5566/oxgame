@@ -14,7 +14,7 @@
 
 ## 使用技術介紹
 1. 使用[ HTML 的 Table](https://developer.mozilla.org/zh-TW/docs/Web/HTML/Element/table)，搭配CSS建立起井字遊戲的"井"背景樣式。
-2. 使用[data-*](https://developer.mozilla.org/zh-TW/docs/Web/HTML/Global_attributes/data-*)利用data-index去將每個井字的空格編號，以利後續辨識。
+2. 使用[data-*](https://developer.mozilla.org/zh-TW/docs/Web/HTML/Global_attributes/data-*)設計data-index將每個井字的空格編號，以利後續辨識欄位。
 3. 利用CSS偽元素 [::after](https://developer.mozilla.org/zh-CN/docs/Web/CSS/::after)去實現O與X在畫面上的呈現。
 4. 使用[Array.filter()](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)與[Array.every](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Array/every)判斷填入的空格狀態，以利得知勝負結果。
 
