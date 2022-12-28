@@ -1,4 +1,4 @@
-# 井字遊戲 OOXX 小遊戲(ox game) Readme
+# 井字遊戲 OOXX 小遊戲 Readme
 井字遊戲 OOXX 小遊戲 
 
 ## 主要介紹
