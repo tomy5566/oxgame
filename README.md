@@ -5,7 +5,7 @@
 使用JavaScrip建立圈叉小遊戲，練習程式邏邏輯與CSS排版運用。
 
 ## DEMO link
-[https://tomy5566.github.io/coffeepos/](https://tomy5566.github.io/oxgame/)
+[https://tomy5566.github.io/oxgame/](https://tomy5566.github.io/oxgame/)
 
 ## 使用技術
 - HTML
