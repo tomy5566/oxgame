@@ -9,7 +9,7 @@
 
 ## 使用技術
 - HTML
-- CSS: [flex](https://developer.mozilla.org/zh-CN/docs/Web/CSS/flex)
+- CSS: [::after](https://developer.mozilla.org/zh-CN/docs/Web/CSS/::after)
 - JavaScript
 
 ## 使用技術介紹
@@ -25,7 +25,7 @@
 
 ## 介面展示
 
-![image](https://github.com/tomy5566/coffeepos/blob/main/coffeepos_demo.gif)
+![image](https://github.com/tomy5566/oxgame/blob/main/OXgmae_demo.gif)
 
 
 ## 參考資料
